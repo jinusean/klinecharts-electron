@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "moduleResolution": "bundler",
+    "module": "ESNext",
+    "resolveJsonModule": true,
+    "baseUrl": "./",
+    "skipLibCheck": true,
+    "outDir": "dist",
+    "noLib": true,
+  },
+  "references": [
+  ],
+  "include": [
+    "src/**/*.ts",
+  ]
+}
